@@ -15,5 +15,5 @@ Functions supported by version 0.11:
 ![微信截图_20220927185749](https://user-images.githubusercontent.com/60136636/192509692-9e2b06f3-d8c2-411b-86a1-532ce1ca098a.png)
 
 
-## Python3
+## Python3.7
 - See `main.py` for details of Demo
